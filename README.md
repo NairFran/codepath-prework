@@ -6,7 +6,7 @@ The app allows you to introduce yourself by inputting your full name, school yea
 
 ### App Walk-though
 
-<!-- <img src="https://gfycat.com/slimyappropriatehochstettersfrog" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="https://gfycat.com/slimyappropriatehochstettersfrog" width=200><br>
 
 ### Required Features
 
