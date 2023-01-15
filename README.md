@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Introduce Student
 
 ### App Description
 
@@ -6,7 +6,7 @@ The app allows you to introduce yourself by inputting your full name, school yea
 
 ### App Walk-though
 
-<img src="/Users/Ariadna/Desktop/IntroduceStudent.gif" width=200><br>
+<-- <img src="YOUR_GIF_URL_HERE" width=200><br> -->
 
 
 ### Required Features
